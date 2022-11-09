@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OnkarBhakare07.
-- 👀 I’m interested in AI/ML, Web devlopement,Graphics Designing.
+- 👀 I’m interested Web devlopement,Graphics Designing.
 - 🌱 I’m currently learning Btech Information Technology.
 - 💞️ I’m looking to collaborate on AI ML deep learning.
 - 📫 How to reach me onkarbhakare.07@gmail.com or +919307436643.
